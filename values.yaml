@@ -1,0 +1,3 @@
+backendServiceUrl: http://localhost:32001/users
+appName : poc-frontend-react
+image : asadullahkhan/poc-frontend:v1
